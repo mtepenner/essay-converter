@@ -1,0 +1,9 @@
+NAME: Jane Doe
+DATE: October 14, 2026
+PROFESSOR: Dr. Smith
+CLASS: English 101
+TITLE: The Impact of Automation on Modern Society
+TEXT:
+This is the first paragraph of my essay. The script will automatically wrap the text, handle page breaks, and maintain double spacing throughout the entire document. 
+
+If you skip a line in the text file, it will create a paragraph break in the PDF.
